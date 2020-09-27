@@ -2,7 +2,7 @@
 
 To jest moje repo i proszę nie ruszać.
 
-
+```
 zaczynamy od katalogu z projektami
 mkdir git22
 git init
@@ -23,3 +23,4 @@ git commit -m D
 
 git checkout develop
 git rebase master 
+```
